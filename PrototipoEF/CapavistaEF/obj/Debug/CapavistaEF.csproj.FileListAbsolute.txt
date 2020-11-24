@@ -109,3 +109,8 @@ C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF
 C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.csproj.CopyComplete
 C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.dll
 C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.pdb
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.frmMDI.resources
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.Properties.Resources.resources
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.ReporteBitacora.resources
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.ReporteProducto.resources
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapavistaEF\obj\Debug\CapavistaEF.ReporteProduccion.resources
