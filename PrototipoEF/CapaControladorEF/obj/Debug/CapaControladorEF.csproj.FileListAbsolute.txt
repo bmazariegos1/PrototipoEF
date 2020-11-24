@@ -7,3 +7,12 @@ C:\Users\CARLOS JAVIER\source\repos\PrototipoEF\CapaControladorEF\obj\Debug\Capa
 C:\Users\CARLOS JAVIER\source\repos\PrototipoEF\CapaControladorEF\bin\Debug\CapaModeloEF.dll
 C:\Users\CARLOS JAVIER\source\repos\PrototipoEF\CapaControladorEF\bin\Debug\CapaModeloEF.pdb
 C:\Users\CARLOS JAVIER\source\repos\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.csproj.CopyComplete
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\bin\Debug\CapaControladorEF.dll
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\bin\Debug\CapaControladorEF.pdb
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\bin\Debug\CapaModeloEF.dll
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\bin\Debug\CapaModeloEF.pdb
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.csprojAssemblyReference.cache
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.csproj.CopyComplete
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.dll
+C:\Users\CARLOS JAVIER\PrototipoEF\PrototipoEF\CapaControladorEF\obj\Debug\CapaControladorEF.pdb
